@@ -345,7 +345,7 @@ import React from 'react';
         <div>
           <h2>{oneTeam.school}</h2>
           <h3>{oneTeam.name}</h3>
-          <h3>{oneTeam.city}, {oneTeam.city}</h3>
+          <h3>{oneTeam.city}, {oneTeam.state}</h3>
           <br></br>
         </div>
       );
